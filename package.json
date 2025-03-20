@@ -1,0 +1,16 @@
+{
+    "name": "garena-encrypt-backend",
+    "version": "1.0.0",
+    "description": "A simple Node.js encryption API using MD5, SHA-256, and AES-ECB.",
+    "main": "backend.js",
+    "scripts": {
+      "start": "node backend.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  }
+  
